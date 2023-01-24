@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JeremyK1830
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on different projects during my time at Nashville Software School.
+- 👋 Hey my name is Jeremy or JT
+- 👀 I’m interested in web development and game development 
+- 🌱 I’m currently teaching myself C#/.NET and Python
+- 💞️ I'm looking for any intern jobs or part time jobs to help jumpstart my career in the development world
 - 📫 How to reach me: jtkervin@gmail.com
 
 <!---
